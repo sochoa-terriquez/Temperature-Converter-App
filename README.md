@@ -1,0 +1,1 @@
+This project uses Python to create a temperature converter application. The user enters a temperature and selects either Celsius or Fahrenheit, and the program converts the value to the opposite temperature unit.  Language used: Python Libraries used: unittest
